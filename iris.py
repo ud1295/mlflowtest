@@ -22,6 +22,6 @@ if __name__ == '__main__':
 
     # mlflow.sklearn.save_model(clf, 'iris_SVM_clf')
     # saved this model for mlflow 
-
+    # adding random line for testing
 
     # mdl = mlflow.pyfunc.load_model(model_path)
