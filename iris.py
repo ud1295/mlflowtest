@@ -1,5 +1,6 @@
-from __future__ import print_function #dev2
 
+from __future__ import print_function #dev1
+# from sklearn import *
 from sklearn.datasets import load_iris
 from sklearn.model_selection import cross_val_score
 from sklearn import svm
